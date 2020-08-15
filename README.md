@@ -1,5 +1,7 @@
 ### Hi there, I'm [Momin], A Front-end Developer 👋
 
+![Twitter Follow](https://img.shields.io/twitter/follow/abdulmomin?color=1da1f2&logo=twitter&style=for-the-badge)
+
 ## I'm a Developer, and Teacher!
 
 - 🔭 I’m currently working on a Food Recipe App!
@@ -39,7 +41,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Momin's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=abdulmomin123&show_icons=true&hide_border=true" />
+  <img align="left" alt="Momin's Github Stats" src="https://github-readme-stats.abdulmomin123.vercel.app/api?username=abdulmomin123&show_icons=true&hide_border=true" />
 
 </details>
 
