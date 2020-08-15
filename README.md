@@ -39,8 +39,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Momin's Github Stats" src="https://github-readme-stats.abdulmomin123.vercel.app
-/api?username=abdulmomin123&show_icons=true&hide_border=true" />
+  <img align="left" alt="Momin's Github Stats" src="https://github-readme-stats.abdulmomin123.vercel.app/api?username=abdulmomin123&show_icons=true&hide_border=true" />
 
 </details>
 
