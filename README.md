@@ -43,6 +43,7 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#307](https://github.com//webpack-contrib/html-loader/issues/307) in [webpack-contrib/html-loader](https://github.com//webpack-contrib/html-loader)
 <!--END_SECTION:activity-->
 
 </details>
