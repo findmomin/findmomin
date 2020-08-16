@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-novatorem-sigma.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/s72azlweskx1gez0xnk5yvkij)
+[<img src="https://novatorem-sigma.vercel.app/api/spotify-playing" alt="abdul_momin Spotify Playing" width="350" />](https://open.spotify.com/user/s72azlweskx1gez0xnk5yvkij)
 
 ### Connect with me:
 
