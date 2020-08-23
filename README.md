@@ -55,6 +55,6 @@
 
 </details>
 
-[momin]: https://abdulmomin.com
+[momin]: https://findmomin.com
 [twitter]: https://twitter.com/
 [linkedin]: https://linkedin.com/in/
