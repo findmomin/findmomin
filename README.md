@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=findmomin.com&style=for-the-badge&url=https%3A%2F%2Ffindmomin.com)](https://findmomin.com)
 ![Twitter Follow](https://img.shields.io/twitter/follow/abdulmomin?color=1da1f2&logo=twitter&style=for-the-badge)
-![Twitter Follow](https://img.shields.io/twitter/follow/findmomin?color=%231da1f2&label=Abdul%20Momin&style=for-the-badge)
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/findmomin?color=%231da1f2&label=Abdul%20Momin&style=for-the-badge">
 
 
 ## I'm a Developer, and Teacher!
