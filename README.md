@@ -1,7 +1,7 @@
 ### Hi there, I'm [Momin], A Front-end Developer 👋
 
 [![Website](https://img.shields.io/website?label=findmomin.com&style=for-the-badge&url=https%3A%2F%2Ffindmomin.com)](https://findmomin.com)
-![Twitter Follow](https://img.shields.io/twitter/follow/abdulmomin?color=1da1f2&logo=twitter&style=for-the-badge)](https://twitter.com/findmomin)
+![Twitter Follow](https://img.shields.io/twitter/follow/abdulmomin?color=1da1f2&logo=twitter&style=for-the-badge)]
 
 ## I'm a Developer, and Teacher!
 
