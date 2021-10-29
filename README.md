@@ -5,10 +5,9 @@
 
 ## I'm a Developer, and Teacher!
 
-- 🔭 I’m currently working on a Food Recipe App!
 - 🌱 I’m currently learning bleeding edge web technologies! 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Build some cool Apps based in APIs.
+- 🥅 2022 Goals: Build some cool Apps based in APIs.
 - ⚡ Passion For Coding: Infinite ⚡!
 
 ### Spotify Playing 🎧
@@ -55,6 +54,6 @@
 
 </details>
 
-[momin]: https://www.findmomin.com
+[momin]: https://www.findmomin.dev
 [twitter]: https://twitter.com/findmomin
-[linkedin]: https://linkedin.com/in/findmomin
+[linkedin]: https://linkedin.com/in/find-momin
