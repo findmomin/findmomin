@@ -1,6 +1,6 @@
 ### Hi there, I'm [Momin], A Front-end Developer 👋
 
-[![Website](https://img.shields.io/website?label=findmomin.dev&style=for-the-badge&url=https%3A%2F%2Ffindmomin.dev)](https://findmomin.dev)
+[![Website](https://img.shields.io/website?label=findmomin.vercel.app&style=for-the-badge&url=https%3A%2F%2Ffindmomin.vercel.app)](https://findmomin.vercel.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/findmomin?color=%231da1f2&label=Abdul%20Momin&style=for-the-badge)](https://twitter.com/findmomin)
 
 ## I'm a Developer, and Teacher!
@@ -16,7 +16,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="findmomin.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][momin]
+[<img align="left" alt="findmomin.vercel.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][momin]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
@@ -54,6 +54,6 @@
 
 </details>
 
-[momin]: https://www.findmomin.dev
+[momin]: https://www.findmomin.vercel.app
 [twitter]: https://twitter.com/findmomin
 [linkedin]: https://linkedin.com/in/find-momin
