@@ -54,6 +54,6 @@
 
 </details>
 
-[momin]: https://www.findmomin.vercel.app
+[momin]: https://findmomin.vercel.app
 [twitter]: https://twitter.com/findmomin
 [linkedin]: https://linkedin.com/in/find-momin
