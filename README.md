@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=findmomin.vercel.app&style=for-the-badge&url=https%3A%2F%2Ffindmomin.vercel.app)](https://findmomin.vercel.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/findmomin?color=%231da1f2&label=Abdul%20Momin&style=for-the-badge)](https://twitter.com/findmomin)
 
-## I'm a Developer, and Teacher!
+## I'm a Developer!
 
 - 🌱 I’m currently learning bleeding edge web technologies! 🤣
 - 👯 I’m looking to collaborate with other content creators
