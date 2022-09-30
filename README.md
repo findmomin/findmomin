@@ -10,15 +10,11 @@
 - 🥅 2022 Goals: Build some cool Apps based on APIs.
 - ⚡ Passion For Coding: Infinite ⚡!
 
-### Spotify Playing 🎧
-
-[<img src="https://novatorem-sigma.vercel.app/api/spotify-playing" alt="abdul_momin Spotify Playing" width="350" />](https://open.spotify.com/user/s72azlweskx1gez0xnk5yvkij)
-
 ### Connect with me:
 
-[<img align="left" alt="findmomin.vercel.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][momin]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Abdul Momin | Frontend Engineer" width="22px" src="https://img.icons8.com/color/48/000000/globe.png" />][momin]
+[<img align="left" alt="Abdul Momin | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="Abdul Momin | Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter.png" />][twitter]
 
 <br />
 
