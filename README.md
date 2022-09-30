@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/findmomin?color=%231da1f2&label=Abdul%20Momin&style=for-the-badge)](https://twitter.com/findmomin)
 
 <p align="center">
-  <img src="" width="100%" alt="Abdul Momin | Frontend Engineer">
+  <img src="https://raw.githubusercontent.com/findmomin/findmomin/master/cover.png" width="100%" alt="Abdul Momin | Frontend Engineer">
 </p>
 
 ---
