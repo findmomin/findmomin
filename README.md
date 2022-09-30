@@ -17,6 +17,8 @@
 <code><img title="Nextjs" height="20" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/nextjs-icon.svg"></code>
 <code><img title="Gatsby" height="20" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/gatsby.svg"></code>
 
+---
+
 ### Backend:
 <code><img title="Nodejs" height="20" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/nodejs.svg"></code>
 <code><img title="Express" height="20" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/express.svg"></code>
@@ -25,12 +27,15 @@
 <code><img title="Cloud Firestore" height="20" src="https://github.com/get-icon/geticon/blob/master/icons/firebase.svg"></code>
 <code><img title="GraphQL" height="20" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/graphql.svg"></code>
 
+---
+
 ### Tools:
 
 <code><img title="VS Code" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img title="Git" height="20" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/git-icon.svg"></code>
 <code><img title="Terminal" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+---
 
 ### Services:
 
@@ -40,6 +45,8 @@
 <code><img title="Hygraph" height="20" src="https://avatars.githubusercontent.com/u/31031438?s=200&v=4"></code>
 <code><img title="Algolia" height="20" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/algolia.svg"></code>
 <code><img title="Firebase" height="20" src="https://github.com/get-icon/geticon/blob/master/icons/firebase.svg"></code>
+
+---
 
 ### Connect with me:
 
