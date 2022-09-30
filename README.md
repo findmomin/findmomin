@@ -3,21 +3,6 @@
 [![Website](https://img.shields.io/website?label=findmomin.vercel.app&style=for-the-badge&url=https%3A%2F%2Ffindmomin.vercel.app)](https://findmomin.vercel.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/findmomin?color=%231da1f2&label=Abdul%20Momin&style=for-the-badge)](https://twitter.com/findmomin)
 
-## I'm a Developer!
-
-- 🌱 I’m currently learning bleeding edge web technologies! 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Build some cool Apps based on APIs.
-- ⚡ Passion For Coding: Infinite ⚡!
-
-### Connect with me:
-
-[<img align="left" alt="Abdul Momin | Frontend Engineer" width="22px" src="https://img.icons8.com/color/48/000000/globe.png" />][momin]
-[<img align="left" alt="Abdul Momin | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="Abdul Momin | Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter.png" />][twitter]
-
-<br />
-
 ### Frontend:
 
 <code><img title="HTML" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -56,26 +41,11 @@
 <code><img title="Algolia" height="20" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/algolia.svg"></code>
 <code><img title="Firebase" height="20" src="https://github.com/get-icon/geticon/blob/master/icons/firebase.svg"></code>
 
-<br />
-<br />
+### Connect with me:
 
----
-
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#307](https://github.com/webpack-contrib/html-loader/issues/307) in [webpack-contrib/html-loader](https://github.com/webpack-contrib/html-loader)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="Momin's Github Stats" src="https://github-readme-stats.abdulmomin123.vercel.app/api?username=findmomin&show_icons=true&hide_border=true" />
-
-</details>
+[<img align="left" alt="Abdul Momin | Frontend Engineer" width="22px" src="https://img.icons8.com/color/48/000000/globe.png" />][momin]
+[<img align="left" alt="Abdul Momin | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="Abdul Momin | Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter.png" />][twitter]
 
 [momin]: https://findmomin.vercel.app
 [twitter]: https://twitter.com/findmomin
