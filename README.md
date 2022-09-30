@@ -48,6 +48,10 @@
 
 ---
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=findmomin&show_icons=true&hide_border=true)
+
+---
+
 ### Connect with me:
 
 [<img align="left" alt="Abdul Momin | Website" width="22px" src="https://img.icons8.com/color/48/000000/globe.png" />][momin]
