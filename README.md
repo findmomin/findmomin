@@ -49,6 +49,13 @@
 
 ### Services:
 
+<code><img title="GitHub" height="20" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/github-icon.svg"></code>
+<code><img title="Stripe" height="20" src="https://avatars.githubusercontent.com/u/856813?s=200&v=4"></code>
+<code><img title="Strapi" height="20" src="https://camo.githubusercontent.com/7b181416931b19e4f5c19a139a9f8609621f9b8350f266f543bf19f93c7bf219/68747470733a2f2f7374726170692e696f2f6173736574732f7374726170692d6c6f676f2d6c696768742e737667"></code>
+<code><img title="Hygraph" height="20" src="https://avatars.githubusercontent.com/u/31031438?s=200&v=4"></code>
+<code><img title="Algolia" height="20" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/algolia.svg"></code>
+<code><img title="Firebase" height="20" src="https://github.com/get-icon/geticon/blob/master/icons/firebase.svg"></code>
+
 <br />
 <br />
 
