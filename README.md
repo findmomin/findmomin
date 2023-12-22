@@ -1,6 +1,6 @@
 ### Hi, I'm Momin, A Frontend Engineer With Backend Experience 👋
 
-[![Website](https://img.shields.io/website?label=findmomin.vercel.app&style=for-the-badge&url=https%3A%2F%2Ffindmomin.vercel.app)](https://findmomin.vercel.app)
+[![Website](https://img.shields.io/website?label=findmomin.com&style=for-the-badge&url=https%3A%2F%2Ffindmomin.com)](https://findmomin.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/findmomin?color=%231da1f2&label=Abdul%20Momin&style=for-the-badge)](https://twitter.com/findmomin)
 
 <p align="center">
@@ -64,6 +64,6 @@
 [<img align="left" alt="Abdul Momin | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="Abdul Momin | Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter.png" />][twitter]
 
-[momin]: https://findmomin.vercel.app
+[momin]: https://findmomin.com
 [twitter]: https://twitter.com/findmomin
-[linkedin]: https://linkedin.com/in/find-momin
+[linkedin]: https://linkedin.com/in/findmomin
